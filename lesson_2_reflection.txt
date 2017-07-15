@@ -13,8 +13,8 @@ organized? How would branches help? A branch is helpful in case you want to expe
 How do the diagrams help you visualize the branch structure? It makes clear what commits are submitted at a particular moment and shows what changes have been made on a particular branch.
 
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+the diagram the way we do? It results the changes that were made in different branches to be consolidated into one branch. Representation is nog clear to me.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+manually? Auto merging save al lot of time and makes sure that changes that are clearly correct are committed. Auto merging also points out code that needs to be discussed (not clear what is correct) between multiple contributors.
 
