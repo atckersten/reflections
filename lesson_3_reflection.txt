@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    In case your want to write some separate functionality that you want to test first before you merge it into the shared repository.
+    In case your want to write some separate functionality that you want to test first before you merge it into the shared repository!
